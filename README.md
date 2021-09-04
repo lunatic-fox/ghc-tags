@@ -47,6 +47,23 @@ GitHub Colors Tags
 <img src="https://joseliojunior.github.io/ghc-tags/lang/f-asterisk/squared.svg">
 ~~~
 
+### Small versions
+
+&nbsp;&nbsp;&nbsp;&nbsp;The standard tag height is 32px, but there is a handy small version of each one with 24px height. You just need to add `-small` to get them.
+
+<div align="center">
+
+![](./lang/basic/rounded.svg)&nbsp;&nbsp;&nbsp;&nbsp;![](./lang/basic/rounded-small.svg)
+
+![](./lang/regular-expression/rounded.svg)&nbsp;&nbsp;&nbsp;&nbsp;![](./lang/regular-expression/rounded-small.svg)
+
+</div>
+
+### Example
+~~~html
+<img src="https://joseliojunior.github.io/ghc-tags/lang/<LANGUAGE>/rounded-small.svg">
+~~~
+
 ## License
 &nbsp;&nbsp;&nbsp;&nbsp;All content in this repository is under MIT License, that means you can use this project, but need to include this **[LICENSE](LICENSE)** in your own.
 
