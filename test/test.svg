@@ -3,7 +3,7 @@
     <style>
         @font-face {
             font-family: 'Ubuntu Mono';
-            src:  url('UbuntuMono-Bold.ttf');
+            src:  url('../fonts/UbuntuMono-Bold.ttf');
         }
     </style>
     <rect
