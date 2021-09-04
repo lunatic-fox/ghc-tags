@@ -9,12 +9,12 @@
 
 ### Rounded
 ~~~html
-<img src="https://joseliojunior.github.io/lang/<LANGUAGE>/rounded.png">
+<img src="https://joseliojunior.github.io/ghc-tags/lang/<LANGUAGE>/rounded.png">
 ~~~
 
 ### Squared
 ~~~html
-<img src="https://joseliojunior.github.io/lang/<LANGUAGE>/squared.png">
+<img src="https://joseliojunior.github.io/ghc-tags/lang/<LANGUAGE>/squared.png">
 ~~~
 
 &nbsp;&nbsp;&nbsp;&nbsp;`<LANGUAGE>`
@@ -23,13 +23,13 @@
 
 ### Example
 ~~~html
-<img src="https://joseliojunior.github.io/lang/objective-c++/squared.png">
+<img src="https://joseliojunior.github.io/ghc-tags/lang/objective-c++/squared.png">
 ~~~
 
 ### Exception
 &nbsp;&nbsp;&nbsp;&nbsp;`F*` is an exception where `*` is replaced with `-asterisk`.
 ~~~html
-<img src="https://joseliojunior.github.io/lang/f-asterisk/squared.png">
+<img src="https://joseliojunior.github.io/ghc-tags/lang/f-asterisk/squared.png">
 ~~~
 
 ## License
