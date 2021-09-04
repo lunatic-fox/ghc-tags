@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="34" width="148.89999999999998" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        @font-face {
+            font-family: 'Ubuntu Mono';
+            src:  url('../../fonts/UbuntuMono-Bold.ttf');
+        }
+    </style>
+    <rect
+        height="32"
+        width="146.89999999999998"
+        rx="14"
+        ry="14"
+        x="1"
+        y="1"
+        fill="#00ADD8"
+        stroke="#00313d"
+        stroke-width="1"
+         />
+    <text
+        fill="#00313d"
+        font-size="28"
+        font-family="Ubuntu Mono"
+        
+        x="11" y="26">Go Module</text>
+</svg>
