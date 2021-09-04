@@ -20,7 +20,7 @@ GitHub Colors Tags
 </h3>
 
 ## Usage
-&nbsp;&nbsp;&nbsp;&nbsp;You can **[FORK](https://github.com/joseliojunior/ghc-tags.git)** this project and use your own way or can get the tags through URL reference below:
+&nbsp;&nbsp;&nbsp;&nbsp;You can **[FORK](https://github.com/joseliojunior/ghc-tags.git)** this project and use your own way or get the tags through URL reference below:
 
 ### Rounded
 ~~~html
