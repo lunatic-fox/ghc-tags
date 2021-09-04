@@ -1,4 +1,9 @@
-# GitHub Colors Tags ![](./lang/markdown/rounded.svg)
+<h1 align="center">
+GitHub Colors Tags
+
+![](./lang/markdown/rounded.svg)
+
+</h1>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Tags to all colored languages known to GitHub.
 
