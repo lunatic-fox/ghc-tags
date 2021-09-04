@@ -23,11 +23,22 @@ GitHub Colors Tags
 &nbsp;&nbsp;&nbsp;&nbsp;You can **[FORK](https://github.com/joseliojunior/ghc-tags.git)** this project and use your own way or get the tags through URL reference below:
 
 ### Rounded
+
+Markdown
+~~~markdown
+![](https://joseliojunior.github.io/ghc-tags/lang/<LANGUAGE>/rounded.svg)
+~~~
+HTML
 ~~~html
 <img src="https://joseliojunior.github.io/ghc-tags/lang/<LANGUAGE>/rounded.svg">
 ~~~
 
 ### Squared
+Markdown
+~~~markdown
+![](https://joseliojunior.github.io/ghc-tags/lang/<LANGUAGE>/squared.svg)
+~~~
+HTML
 ~~~html
 <img src="https://joseliojunior.github.io/ghc-tags/lang/<LANGUAGE>/squared.svg">
 ~~~
@@ -59,6 +70,11 @@ GitHub Colors Tags
 
 </div>
 
+Markdown
+~~~markdown
+![](https://joseliojunior.github.io/ghc-tags/lang/<LANGUAGE>/rounded-small.svg)
+~~~
+HTML
 ~~~html
 <img src="https://joseliojunior.github.io/ghc-tags/lang/<LANGUAGE>/rounded-small.svg">
 ~~~
