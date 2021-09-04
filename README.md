@@ -55,7 +55,7 @@ GitHub Colors Tags
 
 ![](./lang/basic/rounded.svg)&nbsp;&nbsp;&nbsp;&nbsp;![](./lang/basic/rounded-small.svg)
 
-![](./lang/regular-expression/rounded.svg)&nbsp;&nbsp;&nbsp;&nbsp;![](./lang/regular-expression/rounded-small.svg)
+![](./lang/regular-expression/squared.svg)&nbsp;&nbsp;&nbsp;&nbsp;![](./lang/regular-expression/squared-small.svg)
 
 </div>
 
