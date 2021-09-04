@@ -1,4 +1,4 @@
-# GitHub Colors Tags ![](lang/markdown/rounded.svg)
+# GitHub Colors Tags ![](http://joseliojunior.github.io/ghc-tags/lang/markdown/rounded.svg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;Tags to all colored languages known to GitHub.
 
