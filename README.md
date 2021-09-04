@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Tags to all colored languages known to GitHub.
 
-&nbsp;&nbsp;&nbsp;&nbsp;This project uses **[GITHUB/LINGUIST](https://github.com/github/linguist)** as reference for all colors.
+&nbsp;&nbsp;&nbsp;&nbsp;This project uses **[GITHUB/LINGUIST](https://github.com/github/linguist)** as reference for all colors and **[Ubuntu Mono](https://fonts.google.com/specimen/Ubuntu+Mono?query=ubuntu+#license)** made by **[Dalton Maag](https://fonts.google.com/?query=Dalton+Maag)** as font family.
 
 ## Usage
 &nbsp;&nbsp;&nbsp;&nbsp;You can **[FORK](https://github.com/joseliojunior/ghc-tags.git)** this project and use your own way or can get the tags through URL reference below:
