@@ -9,7 +9,8 @@
 <h3 align="center">
 
 📗 [node-fetch v. 2.6.1](https://www.npmjs.com/package/node-fetch)
-&nbsp;&nbsp;&nbsp;&nbsp;📗 [text-to-svg](https://www.npmjs.com/package/text-to-svg)
+
+📗 [text-to-svg](https://www.npmjs.com/package/text-to-svg)
 
 </h3>
 
