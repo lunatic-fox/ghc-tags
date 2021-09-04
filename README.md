@@ -1,4 +1,4 @@
-# GitHub Colors Tags ![](http://joseliojunior.github.io/ghc-tags/lang/markdown/rounded.svg)
+# GitHub Colors Tags ![](./lang/markdown/rounded.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;Tags to all colored languages known to GitHub.
 
@@ -9,12 +9,12 @@
 
 ### Rounded
 ~~~html
-<img src="https://joseliojunior.github.io/ghc-tags/lang/<LANGUAGE>/rounded.svg">
+<img src="https://joseliojunior.github.io/ghc-tags/lang/<LANGUAGE>/rounded.png">
 ~~~
 
 ### Squared
 ~~~html
-<img src="https://joseliojunior.github.io/ghc-tags/lang/<LANGUAGE>/squared.svg">
+<img src="https://joseliojunior.github.io/ghc-tags/lang/<LANGUAGE>/squared.png">
 ~~~
 
 &nbsp;&nbsp;&nbsp;&nbsp;`<LANGUAGE>`
@@ -23,13 +23,13 @@
 
 ### Example
 ~~~html
-<img src="https://joseliojunior.github.io/ghc-tags/lang/objective-c++/squared.svg">
+<img src="https://joseliojunior.github.io/ghc-tags/lang/objective-c++/squared.png">
 ~~~
 
 ### Exception
 &nbsp;&nbsp;&nbsp;&nbsp;`F*` is an exception where `*` is replaced with `-asterisk`.
 ~~~html
-<img src="https://joseliojunior.github.io/ghc-tags/lang/f-asterisk/squared.svg">
+<img src="https://joseliojunior.github.io/ghc-tags/lang/f-asterisk/squared.png">
 ~~~
 
 ## License
