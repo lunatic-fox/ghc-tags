@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg height="34" width="36.1" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg height="34" width="54.1" version="1.1" xmlns="http://www.w3.org/2000/svg">
     <rect
         height="32"
-        width="34.1"
-        rx="14"
-        ry="14"
+        width="52.1"
+        rx="16"
+        ry="16"
         x="1"
         y="1"
         fill="#ccce35"
         stroke="#555615"
         stroke-width="1"
          />
-    <g transform="translate(0, 14)">
-        <path fill="#555615" d="M22.88 11L11.76 11L11.76-6.33L22.26-6.33L22.26-3.48L15.21-3.48L15.21 0.42L21.34 0.42L21.34 3.27L15.21 3.27L15.21 8.14L22.88 8.14L22.88 11Z"/>
+    <g transform="translate(0, 12)">
+        <path fill="#555615" d="M31.04 12L21.51 12L21.51-2.86L30.51-2.86L30.51-0.41L24.46-0.41L24.46 2.93L29.72 2.93L29.72 5.38L24.46 5.38L24.46 9.55L31.04 9.55L31.04 12Z"/>
     </g>
 </svg>
