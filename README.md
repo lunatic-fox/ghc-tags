@@ -59,7 +59,6 @@ GitHub Colors Tags
 
 </div>
 
-### Example
 ~~~html
 <img src="https://joseliojunior.github.io/ghc-tags/lang/<LANGUAGE>/rounded-small.svg">
 ~~~
