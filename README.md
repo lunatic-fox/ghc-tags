@@ -65,7 +65,7 @@ HTML
 
 <div align="center">
 
-![](./lang/robots.txt/rounded.svg)&nbsp;&nbsp;&nbsp;&nbsp;![](./lang/basic/rounded-small.svg)
+![](./lang/robots.txt/rounded.svg)&nbsp;&nbsp;&nbsp;&nbsp;![](./lang/robots.txt/rounded-small.svg)
 
 </div>
 
