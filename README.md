@@ -58,6 +58,17 @@ HTML
 <img src="https://joseliojunior.github.io/ghc-tags/lang/f-asterisk/squared.svg">
 ~~~
 
+
+### Non-colored languages
+
+&nbsp;&nbsp;&nbsp;&nbsp;There are some languages that don't have any color assigned to them, in this case they'll have that appearance.
+
+<div align="center">
+
+![](./lang/robots.txt/rounded.svg)&nbsp;&nbsp;&nbsp;&nbsp;![](./lang/basic/rounded-small.svg)
+
+</div>
+
 ### Small versions
 
 &nbsp;&nbsp;&nbsp;&nbsp;The standard tag height is 32px, but there is a handy small version of each one with 24px height. You just need to add `-small` to get them.

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="322" width="66.2" version="1.1" xmlns="http://www.w3.org/2000/svg"><!--Created by Josélio de S. C. Júnior - 2021 - https://github.com/joseliojunior -->
+    <defs>
+        <pattern id="pattern"
+                x="1.5" y="3" width="3" height="6"
+                patternUnits="userSpaceOnUse"
+                patternTransform="rotate(45)" >
+            <rect height="6" width="1" fill="#999999"/>
+        </pattern>
+    </defs>
+    <rect
+        height="32"
+        width="64.2"
+        rx="1"
+        ry="1"
+        x="1" y="1"
+        fill="url(#pattern)"
+        stroke="#000000"
+        stroke-width="1" />
+    <g transform="translate(0, 12)">
+        <path fill="#ffffff" stroke="#000000" d="M30.90 12L28.52 12Q27.51 9.53 26.32 7.07Q25.14 4.61 23.77 2.14L23.77 2.14L23.77 12L21.10 12L21.10-2.86L23.48-2.86Q24.15-1.80 24.82-0.56Q25.50 0.67 26.13 1.90Q26.77 3.12 27.31 4.27Q27.85 5.42 28.23 6.29L28.23 6.29L28.23-2.86L30.90-2.86L30.90 12ZM43.04 9.55L43.04 12L33.70 12L33.70-2.86L36.68-2.86L36.68 9.55L43.04 9.55Z"/>
+    </g>
+</svg>
