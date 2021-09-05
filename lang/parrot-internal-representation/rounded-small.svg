@@ -2,10 +2,14 @@
 <svg height="26" width="285" version="1.1" xmlns="http://www.w3.org/2000/svg"><!--Created by Josélio de S. C. Júnior - 2021 - https://github.com/joseliojunior -->
     <defs>
         <pattern id="pattern"
-                x="1.5" y="3" width="3" height="6"
+                x="3" y="3" width="6" height="6"
                 patternUnits="userSpaceOnUse"
                 patternTransform="rotate(45)" >
-            <rect height="6" width="1" fill="#999999"/>
+            <rect height="6" width="6"
+                fill="#ffffff"/>
+            <line x1="0" y1="0" x2="0" y2="6"
+                stroke="#888888"
+                stroke-width="2" />
         </pattern>
     </defs>
     <rect
