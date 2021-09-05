@@ -52,11 +52,17 @@ HTML
 <img src="https://joseliojunior.github.io/ghc-tags/lang/objective-c++/squared.svg">
 ~~~
 
-### Exception
-&nbsp;&nbsp;&nbsp;&nbsp;`F*` is an exception where `*` is replaced with `-asterisk`.
+### Exceptions
+&nbsp;&nbsp;&nbsp;&nbsp;`F*` and all languages with `#` are exceptions where `*` is replaced with `-asterisk` and `#` is replaced with `-sharp` respectively.
 ~~~html
 <img src="https://joseliojunior.github.io/ghc-tags/lang/f-asterisk/squared.svg">
+<img src="https://joseliojunior.github.io/ghc-tags/lang/c-sharp/squared.svg">
 ~~~
+<div align="center">
+
+![](./lang/f-asterisk/squared.svg) ![](./lang/c-sharp/squared.svg)
+
+</div>
 
 
 ### Non-colored languages

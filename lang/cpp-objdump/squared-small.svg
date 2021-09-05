@@ -8,7 +8,7 @@
             <rect height="6" width="6"
                 fill="#ffffff"/>
             <line x1="0" y1="0" x2="0" y2="6"
-                stroke="#888888"
+                stroke="#bbbbbb"
                 stroke-width="2" />
         </pattern>
     </defs>
