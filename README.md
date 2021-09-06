@@ -104,6 +104,7 @@ HTML
 <div align="center">
 
 ## [Reference sheet](reference/README.md)
+## [Samples sheet](samples/README.md)
 
 Made with ❤ by me.
 

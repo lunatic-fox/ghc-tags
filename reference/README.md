@@ -1,619 +1,1226 @@
 # Reference sheet
-<div align="center">
 
 ### **There is a total of 607 languages.**
 ### **Colored: 477 languages**
 ### **Non-colored: 130 languages**
 <br>
 
-![](../lang/1c-enterprise/rounded.svg)
-![](../lang/4d/rounded.svg)
-![](../lang/abap/rounded.svg)
-![](../lang/abap-cds/rounded.svg)
-![](../lang/abnf/rounded.svg)
-![](../lang/ags-script/rounded.svg)
-![](../lang/aidl/rounded.svg)
-![](../lang/al/rounded.svg)
-![](../lang/ampl/rounded.svg)
-![](../lang/antlr/rounded.svg)
-![](../lang/api-blueprint/rounded.svg)
-![](../lang/apl/rounded.svg)
-![](../lang/asl/rounded.svg)
-![](../lang/asn.1/rounded.svg)
-![](../lang/asp.net/rounded.svg)
-![](../lang/ats/rounded.svg)
-![](../lang/actionscript/rounded.svg)
-![](../lang/ada/rounded.svg)
-![](../lang/adobe-font-metrics/rounded.svg)
-![](../lang/agda/rounded.svg)
-![](../lang/alloy/rounded.svg)
-![](../lang/alpine-abuild/rounded.svg)
-![](../lang/altium-designer/rounded.svg)
-![](../lang/angelscript/rounded.svg)
-![](../lang/ant-build-system/rounded.svg)
-![](../lang/apacheconf/rounded.svg)
-![](../lang/apex/rounded.svg)
-![](../lang/apollo-guidance-computer/rounded.svg)
-![](../lang/applescript/rounded.svg)
-![](../lang/arc/rounded.svg)
-![](../lang/asciidoc/rounded.svg)
-![](../lang/aspectj/rounded.svg)
-![](../lang/assembly/rounded.svg)
-![](../lang/astro/rounded.svg)
-![](../lang/asymptote/rounded.svg)
-![](../lang/augeas/rounded.svg)
-![](../lang/autohotkey/rounded.svg)
-![](../lang/autoit/rounded.svg)
-![](../lang/avro-idl/rounded.svg)
-![](../lang/awk/rounded.svg)
-![](../lang/basic/rounded.svg)
-![](../lang/ballerina/rounded.svg)
-![](../lang/batchfile/rounded.svg)
-![](../lang/beef/rounded.svg)
-![](../lang/befunge/rounded.svg)
-![](../lang/bibtex/rounded.svg)
-![](../lang/bicep/rounded.svg)
-![](../lang/bison/rounded.svg)
-![](../lang/bitbake/rounded.svg)
-![](../lang/blade/rounded.svg)
-![](../lang/blitzbasic/rounded.svg)
-![](../lang/blitzmax/rounded.svg)
-![](../lang/bluespec/rounded.svg)
-![](../lang/boo/rounded.svg)
-![](../lang/boogie/rounded.svg)
-![](../lang/brainfuck/rounded.svg)
-![](../lang/brightscript/rounded.svg)
-![](../lang/browserslist/rounded.svg)
-![](../lang/c/rounded.svg)
-![](../lang/c-sharp/rounded.svg)
-![](../lang/c++/rounded.svg)
-![](../lang/c-objdump/rounded.svg)
-![](../lang/c2hs-haskell/rounded.svg)
-![](../lang/cil/rounded.svg)
-![](../lang/clips/rounded.svg)
-![](../lang/cmake/rounded.svg)
-![](../lang/cobol/rounded.svg)
-![](../lang/codeowners/rounded.svg)
-![](../lang/collada/rounded.svg)
-![](../lang/cson/rounded.svg)
-![](../lang/css/rounded.svg)
-![](../lang/csv/rounded.svg)
-![](../lang/cue/rounded.svg)
-![](../lang/cweb/rounded.svg)
-![](../lang/cabal-config/rounded.svg)
-![](../lang/cap'n-proto/rounded.svg)
-![](../lang/cartocss/rounded.svg)
-![](../lang/ceylon/rounded.svg)
-![](../lang/chapel/rounded.svg)
-![](../lang/charity/rounded.svg)
-![](../lang/chuck/rounded.svg)
-![](../lang/cirru/rounded.svg)
-![](../lang/clarion/rounded.svg)
-![](../lang/classic-asp/rounded.svg)
-![](../lang/clean/rounded.svg)
-![](../lang/click/rounded.svg)
-![](../lang/clojure/rounded.svg)
-![](../lang/closure-templates/rounded.svg)
-![](../lang/cloud-firestore-security-rules/rounded.svg)
-![](../lang/conll-u/rounded.svg)
-![](../lang/codeql/rounded.svg)
-![](../lang/coffeescript/rounded.svg)
-![](../lang/coldfusion/rounded.svg)
-![](../lang/coldfusion-cfc/rounded.svg)
-![](../lang/common-lisp/rounded.svg)
-![](../lang/common-workflow-language/rounded.svg)
-![](../lang/component-pascal/rounded.svg)
-![](../lang/cool/rounded.svg)
-![](../lang/coq/rounded.svg)
-![](../lang/cpp-objdump/rounded.svg)
-![](../lang/creole/rounded.svg)
-![](../lang/crystal/rounded.svg)
-![](../lang/csound/rounded.svg)
-![](../lang/csound-document/rounded.svg)
-![](../lang/csound-score/rounded.svg)
-![](../lang/cuda/rounded.svg)
-![](../lang/cue-sheet/rounded.svg)
-![](../lang/cycript/rounded.svg)
-![](../lang/cython/rounded.svg)
-![](../lang/d/rounded.svg)
-![](../lang/d-objdump/rounded.svg)
-![](../lang/digital-command-language/rounded.svg)
-![](../lang/dm/rounded.svg)
-![](../lang/dns-zone/rounded.svg)
-![](../lang/dtrace/rounded.svg)
-![](../lang/dafny/rounded.svg)
-![](../lang/darcs-patch/rounded.svg)
-![](../lang/dart/rounded.svg)
-![](../lang/dataweave/rounded.svg)
-![](../lang/dhall/rounded.svg)
-![](../lang/diff/rounded.svg)
-![](../lang/directx-3d-file/rounded.svg)
-![](../lang/dockerfile/rounded.svg)
-![](../lang/dogescript/rounded.svg)
-![](../lang/dylan/rounded.svg)
-![](../lang/e/rounded.svg)
-![](../lang/e-mail/rounded.svg)
-![](../lang/ebnf/rounded.svg)
-![](../lang/ecl/rounded.svg)
-![](../lang/eclipse/rounded.svg)
-![](../lang/ejs/rounded.svg)
-![](../lang/eq/rounded.svg)
-![](../lang/eagle/rounded.svg)
-![](../lang/easybuild/rounded.svg)
-![](../lang/ecere-projects/rounded.svg)
-![](../lang/editorconfig/rounded.svg)
-![](../lang/edje-data-collection/rounded.svg)
-![](../lang/eiffel/rounded.svg)
-![](../lang/elixir/rounded.svg)
-![](../lang/elm/rounded.svg)
-![](../lang/emacs-lisp/rounded.svg)
-![](../lang/emberscript/rounded.svg)
-![](../lang/erlang/rounded.svg)
-![](../lang/f-sharp/rounded.svg)
-![](../lang/f-asterisk/rounded.svg)
-![](../lang/figlet-font/rounded.svg)
-![](../lang/flux/rounded.svg)
-![](../lang/factor/rounded.svg)
-![](../lang/fancy/rounded.svg)
-![](../lang/fantom/rounded.svg)
-![](../lang/faust/rounded.svg)
-![](../lang/fennel/rounded.svg)
-![](../lang/filebench-wml/rounded.svg)
-![](../lang/filterscript/rounded.svg)
-![](../lang/fluent/rounded.svg)
-![](../lang/formatted/rounded.svg)
-![](../lang/forth/rounded.svg)
-![](../lang/fortran/rounded.svg)
-![](../lang/fortran-free-form/rounded.svg)
-![](../lang/freebasic/rounded.svg)
-![](../lang/freemarker/rounded.svg)
-![](../lang/frege/rounded.svg)
-![](../lang/futhark/rounded.svg)
-![](../lang/g-code/rounded.svg)
-![](../lang/gaml/rounded.svg)
-![](../lang/gams/rounded.svg)
-![](../lang/gap/rounded.svg)
-![](../lang/gcc-machine-description/rounded.svg)
-![](../lang/gdb/rounded.svg)
-![](../lang/gdscript/rounded.svg)
-![](../lang/gedcom/rounded.svg)
-![](../lang/glsl/rounded.svg)
-![](../lang/gn/rounded.svg)
-![](../lang/game-maker-language/rounded.svg)
-![](../lang/gemfile.lock/rounded.svg)
-![](../lang/genie/rounded.svg)
-![](../lang/genshi/rounded.svg)
-![](../lang/gentoo-ebuild/rounded.svg)
-![](../lang/gentoo-eclass/rounded.svg)
-![](../lang/gerber-image/rounded.svg)
-![](../lang/gettext-catalog/rounded.svg)
-![](../lang/gherkin/rounded.svg)
-![](../lang/git-attributes/rounded.svg)
-![](../lang/git-config/rounded.svg)
-![](../lang/glyph/rounded.svg)
-![](../lang/glyph-bitmap-distribution-format/rounded.svg)
-![](../lang/gnuplot/rounded.svg)
-![](../lang/go/rounded.svg)
-![](../lang/go-checksums/rounded.svg)
-![](../lang/go-module/rounded.svg)
-![](../lang/golo/rounded.svg)
-![](../lang/gosu/rounded.svg)
-![](../lang/grace/rounded.svg)
-![](../lang/gradle/rounded.svg)
-![](../lang/grammatical-framework/rounded.svg)
-![](../lang/graph-modeling-language/rounded.svg)
-![](../lang/graphql/rounded.svg)
-![](../lang/graphviz-(dot)/rounded.svg)
-![](../lang/groovy/rounded.svg)
-![](../lang/groovy-server-pages/rounded.svg)
-![](../lang/haproxy/rounded.svg)
-![](../lang/hcl/rounded.svg)
-![](../lang/hlsl/rounded.svg)
-![](../lang/html/rounded.svg)
-![](../lang/html+ecr/rounded.svg)
-![](../lang/html+eex/rounded.svg)
-![](../lang/html+erb/rounded.svg)
-![](../lang/html+php/rounded.svg)
-![](../lang/html+razor/rounded.svg)
-![](../lang/http/rounded.svg)
-![](../lang/hxml/rounded.svg)
-![](../lang/hack/rounded.svg)
-![](../lang/haml/rounded.svg)
-![](../lang/handlebars/rounded.svg)
-![](../lang/harbour/rounded.svg)
-![](../lang/haskell/rounded.svg)
-![](../lang/haxe/rounded.svg)
-![](../lang/hiveql/rounded.svg)
-![](../lang/holyc/rounded.svg)
-![](../lang/hy/rounded.svg)
-![](../lang/hyphy/rounded.svg)
-![](../lang/idl/rounded.svg)
-![](../lang/igor-pro/rounded.svg)
-![](../lang/ini/rounded.svg)
-![](../lang/irc-log/rounded.svg)
-![](../lang/idris/rounded.svg)
-![](../lang/ignore-list/rounded.svg)
-![](../lang/imagej-macro/rounded.svg)
-![](../lang/inform-7/rounded.svg)
-![](../lang/inno-setup/rounded.svg)
-![](../lang/io/rounded.svg)
-![](../lang/ioke/rounded.svg)
-![](../lang/isabelle/rounded.svg)
-![](../lang/isabelle-root/rounded.svg)
-![](../lang/j/rounded.svg)
-![](../lang/jar-manifest/rounded.svg)
-![](../lang/jflex/rounded.svg)
-![](../lang/json/rounded.svg)
-![](../lang/json-with-comments/rounded.svg)
-![](../lang/json5/rounded.svg)
-![](../lang/jsonld/rounded.svg)
-![](../lang/jsoniq/rounded.svg)
-![](../lang/jasmin/rounded.svg)
-![](../lang/java/rounded.svg)
-![](../lang/java-properties/rounded.svg)
-![](../lang/java-server-pages/rounded.svg)
-![](../lang/javascript/rounded.svg)
-![](../lang/javascript+erb/rounded.svg)
-![](../lang/jinja/rounded.svg)
-![](../lang/jison/rounded.svg)
-![](../lang/jison-lex/rounded.svg)
-![](../lang/jolie/rounded.svg)
-![](../lang/jsonnet/rounded.svg)
-![](../lang/julia/rounded.svg)
-![](../lang/jupyter-notebook/rounded.svg)
-![](../lang/krl/rounded.svg)
-![](../lang/kaitai-struct/rounded.svg)
-![](../lang/kakounescript/rounded.svg)
-![](../lang/kicad-layout/rounded.svg)
-![](../lang/kicad-legacy-layout/rounded.svg)
-![](../lang/kicad-schematic/rounded.svg)
-![](../lang/kit/rounded.svg)
-![](../lang/kotlin/rounded.svg)
-![](../lang/kusto/rounded.svg)
-![](../lang/lfe/rounded.svg)
-![](../lang/llvm/rounded.svg)
-![](../lang/lolcode/rounded.svg)
-![](../lang/lsl/rounded.svg)
-![](../lang/ltspice-symbol/rounded.svg)
-![](../lang/labview/rounded.svg)
-![](../lang/lark/rounded.svg)
-![](../lang/lasso/rounded.svg)
-![](../lang/latte/rounded.svg)
-![](../lang/lean/rounded.svg)
-![](../lang/less/rounded.svg)
-![](../lang/lex/rounded.svg)
-![](../lang/lilypond/rounded.svg)
-![](../lang/limbo/rounded.svg)
-![](../lang/linker-script/rounded.svg)
-![](../lang/linux-kernel-module/rounded.svg)
-![](../lang/liquid/rounded.svg)
-![](../lang/literate-agda/rounded.svg)
-![](../lang/literate-coffeescript/rounded.svg)
-![](../lang/literate-haskell/rounded.svg)
-![](../lang/livescript/rounded.svg)
-![](../lang/logos/rounded.svg)
-![](../lang/logtalk/rounded.svg)
-![](../lang/lookml/rounded.svg)
-![](../lang/loomscript/rounded.svg)
-![](../lang/lua/rounded.svg)
-![](../lang/m/rounded.svg)
-![](../lang/m4/rounded.svg)
-![](../lang/m4sugar/rounded.svg)
-![](../lang/matlab/rounded.svg)
-![](../lang/maxscript/rounded.svg)
-![](../lang/mlir/rounded.svg)
-![](../lang/mql4/rounded.svg)
-![](../lang/mql5/rounded.svg)
-![](../lang/mtml/rounded.svg)
-![](../lang/muf/rounded.svg)
-![](../lang/macaulay2/rounded.svg)
-![](../lang/makefile/rounded.svg)
-![](../lang/mako/rounded.svg)
-![](../lang/markdown/rounded.svg)
-![](../lang/marko/rounded.svg)
-![](../lang/mask/rounded.svg)
-![](../lang/mathematica/rounded.svg)
-![](../lang/maven-pom/rounded.svg)
-![](../lang/max/rounded.svg)
-![](../lang/mercury/rounded.svg)
-![](../lang/meson/rounded.svg)
-![](../lang/metal/rounded.svg)
-![](../lang/microsoft-developer-studio-project/rounded.svg)
-![](../lang/microsoft-visual-studio-solution/rounded.svg)
-![](../lang/minid/rounded.svg)
-![](../lang/mirah/rounded.svg)
-![](../lang/modelica/rounded.svg)
-![](../lang/modula-2/rounded.svg)
-![](../lang/modula-3/rounded.svg)
-![](../lang/module-management-system/rounded.svg)
-![](../lang/monkey/rounded.svg)
-![](../lang/moocode/rounded.svg)
-![](../lang/moonscript/rounded.svg)
-![](../lang/motorola-68k-assembly/rounded.svg)
-![](../lang/muse/rounded.svg)
-![](../lang/mustache/rounded.svg)
-![](../lang/myghty/rounded.svg)
-![](../lang/nasl/rounded.svg)
-![](../lang/ncl/rounded.svg)
-![](../lang/neon/rounded.svg)
-![](../lang/nl/rounded.svg)
-![](../lang/npm-config/rounded.svg)
-![](../lang/nsis/rounded.svg)
-![](../lang/nwscript/rounded.svg)
-![](../lang/nearley/rounded.svg)
-![](../lang/nemerle/rounded.svg)
-![](../lang/netlinx/rounded.svg)
-![](../lang/netlinx+erb/rounded.svg)
-![](../lang/netlogo/rounded.svg)
-![](../lang/newlisp/rounded.svg)
-![](../lang/nextflow/rounded.svg)
-![](../lang/nginx/rounded.svg)
-![](../lang/nim/rounded.svg)
-![](../lang/ninja/rounded.svg)
-![](../lang/nit/rounded.svg)
-![](../lang/nix/rounded.svg)
-![](../lang/nu/rounded.svg)
-![](../lang/numpy/rounded.svg)
-![](../lang/nunjucks/rounded.svg)
-![](../lang/ocaml/rounded.svg)
-![](../lang/objdump/rounded.svg)
-![](../lang/object-data-instance-notation/rounded.svg)
-![](../lang/objectscript/rounded.svg)
-![](../lang/objective-c/rounded.svg)
-![](../lang/objective-c++/rounded.svg)
-![](../lang/objective-j/rounded.svg)
-![](../lang/odin/rounded.svg)
-![](../lang/omgrofl/rounded.svg)
-![](../lang/opa/rounded.svg)
-![](../lang/opal/rounded.svg)
-![](../lang/open-policy-agent/rounded.svg)
-![](../lang/opencl/rounded.svg)
-![](../lang/openedge-abl/rounded.svg)
-![](../lang/openqasm/rounded.svg)
-![](../lang/openrc-runscript/rounded.svg)
-![](../lang/openscad/rounded.svg)
-![](../lang/openstep-property-list/rounded.svg)
-![](../lang/opentype-feature-file/rounded.svg)
-![](../lang/org/rounded.svg)
-![](../lang/ox/rounded.svg)
-![](../lang/oxygene/rounded.svg)
-![](../lang/oz/rounded.svg)
-![](../lang/p4/rounded.svg)
-![](../lang/peg.js/rounded.svg)
-![](../lang/php/rounded.svg)
-![](../lang/plsql/rounded.svg)
-![](../lang/plpgsql/rounded.svg)
-![](../lang/pov-ray-sdl/rounded.svg)
-![](../lang/pan/rounded.svg)
-![](../lang/papyrus/rounded.svg)
-![](../lang/parrot/rounded.svg)
-![](../lang/parrot-assembly/rounded.svg)
-![](../lang/parrot-internal-representation/rounded.svg)
-![](../lang/pascal/rounded.svg)
-![](../lang/pawn/rounded.svg)
-![](../lang/pep8/rounded.svg)
-![](../lang/perl/rounded.svg)
-![](../lang/pic/rounded.svg)
-![](../lang/pickle/rounded.svg)
-![](../lang/picolisp/rounded.svg)
-![](../lang/piglatin/rounded.svg)
-![](../lang/pike/rounded.svg)
-![](../lang/plantuml/rounded.svg)
-![](../lang/pod/rounded.svg)
-![](../lang/pod-6/rounded.svg)
-![](../lang/pogoscript/rounded.svg)
-![](../lang/pony/rounded.svg)
-![](../lang/postcss/rounded.svg)
-![](../lang/postscript/rounded.svg)
-![](../lang/powerbuilder/rounded.svg)
-![](../lang/powershell/rounded.svg)
-![](../lang/prisma/rounded.svg)
-![](../lang/processing/rounded.svg)
-![](../lang/proguard/rounded.svg)
-![](../lang/prolog/rounded.svg)
-![](../lang/propeller-spin/rounded.svg)
-![](../lang/protocol-buffer/rounded.svg)
-![](../lang/public-key/rounded.svg)
-![](../lang/pug/rounded.svg)
-![](../lang/puppet/rounded.svg)
-![](../lang/pure-data/rounded.svg)
-![](../lang/purebasic/rounded.svg)
-![](../lang/purescript/rounded.svg)
-![](../lang/python/rounded.svg)
-![](../lang/python-console/rounded.svg)
-![](../lang/python-traceback/rounded.svg)
-![](../lang/q-sharp/rounded.svg)
-![](../lang/qml/rounded.svg)
-![](../lang/qmake/rounded.svg)
-![](../lang/qt-script/rounded.svg)
-![](../lang/quake/rounded.svg)
-![](../lang/r/rounded.svg)
-![](../lang/raml/rounded.svg)
-![](../lang/rdoc/rounded.svg)
-![](../lang/realbasic/rounded.svg)
-![](../lang/rexx/rounded.svg)
-![](../lang/rmarkdown/rounded.svg)
-![](../lang/rpc/rounded.svg)
-![](../lang/rpm-spec/rounded.svg)
-![](../lang/runoff/rounded.svg)
-![](../lang/racket/rounded.svg)
-![](../lang/ragel/rounded.svg)
-![](../lang/raku/rounded.svg)
-![](../lang/rascal/rounded.svg)
-![](../lang/raw-token-data/rounded.svg)
-![](../lang/rescript/rounded.svg)
-![](../lang/readline-config/rounded.svg)
-![](../lang/reason/rounded.svg)
-![](../lang/rebol/rounded.svg)
-![](../lang/record-jar/rounded.svg)
-![](../lang/red/rounded.svg)
-![](../lang/redcode/rounded.svg)
-![](../lang/redirect-rules/rounded.svg)
-![](../lang/regular-expression/rounded.svg)
-![](../lang/ren'py/rounded.svg)
-![](../lang/renderscript/rounded.svg)
-![](../lang/rich-text-format/rounded.svg)
-![](../lang/ring/rounded.svg)
-![](../lang/riot/rounded.svg)
-![](../lang/robotframework/rounded.svg)
-![](../lang/roff/rounded.svg)
-![](../lang/roff-manpage/rounded.svg)
-![](../lang/rouge/rounded.svg)
-![](../lang/ruby/rounded.svg)
-![](../lang/rust/rounded.svg)
-![](../lang/sas/rounded.svg)
-![](../lang/scss/rounded.svg)
-![](../lang/selinux-policy/rounded.svg)
-![](../lang/smt/rounded.svg)
-![](../lang/sparql/rounded.svg)
-![](../lang/sqf/rounded.svg)
-![](../lang/sql/rounded.svg)
-![](../lang/sqlpl/rounded.svg)
-![](../lang/srecode-template/rounded.svg)
-![](../lang/ssh-config/rounded.svg)
-![](../lang/ston/rounded.svg)
-![](../lang/svg/rounded.svg)
-![](../lang/swig/rounded.svg)
-![](../lang/sage/rounded.svg)
-![](../lang/saltstack/rounded.svg)
-![](../lang/sass/rounded.svg)
-![](../lang/scala/rounded.svg)
-![](../lang/scaml/rounded.svg)
-![](../lang/scheme/rounded.svg)
-![](../lang/scilab/rounded.svg)
-![](../lang/self/rounded.svg)
-![](../lang/shaderlab/rounded.svg)
-![](../lang/shell/rounded.svg)
-![](../lang/shellsession/rounded.svg)
-![](../lang/shen/rounded.svg)
-![](../lang/sieve/rounded.svg)
-![](../lang/singularity/rounded.svg)
-![](../lang/slash/rounded.svg)
-![](../lang/slice/rounded.svg)
-![](../lang/slim/rounded.svg)
-![](../lang/smpl/rounded.svg)
-![](../lang/smali/rounded.svg)
-![](../lang/smalltalk/rounded.svg)
-![](../lang/smarty/rounded.svg)
-![](../lang/solidity/rounded.svg)
-![](../lang/soong/rounded.svg)
-![](../lang/sourcepawn/rounded.svg)
-![](../lang/spline-font-database/rounded.svg)
-![](../lang/squirrel/rounded.svg)
-![](../lang/stan/rounded.svg)
-![](../lang/standard-ml/rounded.svg)
-![](../lang/starlark/rounded.svg)
-![](../lang/stata/rounded.svg)
-![](../lang/stringtemplate/rounded.svg)
-![](../lang/stylus/rounded.svg)
-![](../lang/subrip-text/rounded.svg)
-![](../lang/sugarss/rounded.svg)
-![](../lang/supercollider/rounded.svg)
-![](../lang/svelte/rounded.svg)
-![](../lang/swift/rounded.svg)
-![](../lang/systemverilog/rounded.svg)
-![](../lang/ti-program/rounded.svg)
-![](../lang/tla/rounded.svg)
-![](../lang/toml/rounded.svg)
-![](../lang/tsql/rounded.svg)
-![](../lang/tsv/rounded.svg)
-![](../lang/tsx/rounded.svg)
-![](../lang/txl/rounded.svg)
-![](../lang/tcl/rounded.svg)
-![](../lang/tcsh/rounded.svg)
-![](../lang/tex/rounded.svg)
-![](../lang/tea/rounded.svg)
-![](../lang/terra/rounded.svg)
-![](../lang/texinfo/rounded.svg)
-![](../lang/text/rounded.svg)
-![](../lang/textmate-properties/rounded.svg)
-![](../lang/textile/rounded.svg)
-![](../lang/thrift/rounded.svg)
-![](../lang/turing/rounded.svg)
-![](../lang/turtle/rounded.svg)
-![](../lang/twig/rounded.svg)
-![](../lang/type-language/rounded.svg)
-![](../lang/typescript/rounded.svg)
-![](../lang/unified-parallel-c/rounded.svg)
-![](../lang/unity3d-asset/rounded.svg)
-![](../lang/unix-assembly/rounded.svg)
-![](../lang/uno/rounded.svg)
-![](../lang/unrealscript/rounded.svg)
-![](../lang/urweb/rounded.svg)
-![](../lang/v/rounded.svg)
-![](../lang/vba/rounded.svg)
-![](../lang/vbscript/rounded.svg)
-![](../lang/vcl/rounded.svg)
-![](../lang/vhdl/rounded.svg)
-![](../lang/vala/rounded.svg)
-![](../lang/valve-data-format/rounded.svg)
-![](../lang/verilog/rounded.svg)
-![](../lang/vim-help-file/rounded.svg)
-![](../lang/vim-script/rounded.svg)
-![](../lang/vim-snippet/rounded.svg)
-![](../lang/visual-basic-.net/rounded.svg)
-![](../lang/volt/rounded.svg)
-![](../lang/vue/rounded.svg)
-![](../lang/wavefront-material/rounded.svg)
-![](../lang/wavefront-object/rounded.svg)
-![](../lang/web-ontology-language/rounded.svg)
-![](../lang/webassembly/rounded.svg)
-![](../lang/webidl/rounded.svg)
-![](../lang/webvtt/rounded.svg)
-![](../lang/wget-config/rounded.svg)
-![](../lang/wikitext/rounded.svg)
-![](../lang/windows-registry-entries/rounded.svg)
-![](../lang/wollok/rounded.svg)
-![](../lang/world-of-warcraft-addon-data/rounded.svg)
-![](../lang/x-bitmap/rounded.svg)
-![](../lang/x-font-directory-index/rounded.svg)
-![](../lang/x-pixmap/rounded.svg)
-![](../lang/x10/rounded.svg)
-![](../lang/xc/rounded.svg)
-![](../lang/xcompose/rounded.svg)
-![](../lang/xml/rounded.svg)
-![](../lang/xml-property-list/rounded.svg)
-![](../lang/xpages/rounded.svg)
-![](../lang/xproc/rounded.svg)
-![](../lang/xquery/rounded.svg)
-![](../lang/xs/rounded.svg)
-![](../lang/xslt/rounded.svg)
-![](../lang/xojo/rounded.svg)
-![](../lang/xonsh/rounded.svg)
-![](../lang/xtend/rounded.svg)
-![](../lang/yaml/rounded.svg)
-![](../lang/yang/rounded.svg)
-![](../lang/yara/rounded.svg)
-![](../lang/yasnippet/rounded.svg)
-![](../lang/yacc/rounded.svg)
-![](../lang/zap/rounded.svg)
-![](../lang/zil/rounded.svg)
-![](../lang/zeek/rounded.svg)
-![](../lang/zenscript/rounded.svg)
-![](../lang/zephir/rounded.svg)
-![](../lang/zig/rounded.svg)
-![](../lang/zimpl/rounded.svg)
-![](../lang/curl-config/rounded.svg)
-![](../lang/desktop/rounded.svg)
-![](../lang/dirs/rounded.svg)
-![](../lang/ec/rounded.svg)
-![](../lang/edn/rounded.svg)
-![](../lang/fish/rounded.svg)
-![](../lang/jq/rounded.svg)
-![](../lang/mirc-script/rounded.svg)
-![](../lang/mcfunction/rounded.svg)
-![](../lang/mupad/rounded.svg)
-![](../lang/nanorc/rounded.svg)
-![](../lang/nesc/rounded.svg)
-![](../lang/ooc/rounded.svg)
-![](../lang/q/rounded.svg)
-![](../lang/restructuredtext/rounded.svg)
-![](../lang/robots.txt/rounded.svg)
-![](../lang/sed/rounded.svg)
-![](../lang/wdl/rounded.svg)
-![](../lang/wisp/rounded.svg)
-![](../lang/xbase/rounded.svg)
+1C Enterprise - `1c-enterprise`
 
+4D - `4d`
+
+ABAP - `abap`
+
+ABAP CDS - `abap-cds`
+
+ABNF - `abnf`
+
+AGS Script - `ags-script`
+
+AIDL - `aidl`
+
+AL - `al`
+
+AMPL - `ampl`
+
+ANTLR - `antlr`
+
+API Blueprint - `api-blueprint`
+
+APL - `apl`
+
+ASL - `asl`
+
+ASN.1 - `asn.1`
+
+ASP.NET - `asp.net`
+
+ATS - `ats`
+
+ActionScript - `actionscript`
+
+Ada - `ada`
+
+Adobe Font Metrics - `adobe-font-metrics`
+
+Agda - `agda`
+
+Alloy - `alloy`
+
+Alpine Abuild - `alpine-abuild`
+
+Altium Designer - `altium-designer`
+
+AngelScript - `angelscript`
+
+Ant Build System - `ant-build-system`
+
+ApacheConf - `apacheconf`
+
+Apex - `apex`
+
+Apollo Guidance Computer - `apollo-guidance-computer`
+
+AppleScript - `applescript`
+
+Arc - `arc`
+
+AsciiDoc - `asciidoc`
+
+AspectJ - `aspectj`
+
+Assembly - `assembly`
+
+Astro - `astro`
+
+Asymptote - `asymptote`
+
+Augeas - `augeas`
+
+AutoHotkey - `autohotkey`
+
+AutoIt - `autoit`
+
+Avro IDL - `avro-idl`
+
+Awk - `awk`
+
+BASIC - `basic`
+
+Ballerina - `ballerina`
+
+Batchfile - `batchfile`
+
+Beef - `beef`
+
+Befunge - `befunge`
+
+BibTeX - `bibtex`
+
+Bicep - `bicep`
+
+Bison - `bison`
+
+BitBake - `bitbake`
+
+Blade - `blade`
+
+BlitzBasic - `blitzbasic`
+
+BlitzMax - `blitzmax`
+
+Bluespec - `bluespec`
+
+Boo - `boo`
+
+Boogie - `boogie`
+
+Brainfuck - `brainfuck`
+
+Brightscript - `brightscript`
+
+Browserslist - `browserslist`
+
+C - `c`
+
+C# - `c-sharp`
+
+C++ - `c++`
+
+C-ObjDump - `c-objdump`
+
+C2hs Haskell - `c2hs-haskell`
+
+CIL - `cil`
+
+CLIPS - `clips`
+
+CMake - `cmake`
+
+COBOL - `cobol`
+
+CODEOWNERS - `codeowners`
+
+COLLADA - `collada`
+
+CSON - `cson`
+
+CSS - `css`
+
+CSV - `csv`
+
+CUE - `cue`
+
+CWeb - `cweb`
+
+Cabal Config - `cabal-config`
+
+Cap'n Proto - `cap'n-proto`
+
+CartoCSS - `cartocss`
+
+Ceylon - `ceylon`
+
+Chapel - `chapel`
+
+Charity - `charity`
+
+ChucK - `chuck`
+
+Cirru - `cirru`
+
+Clarion - `clarion`
+
+Classic ASP - `classic-asp`
+
+Clean - `clean`
+
+Click - `click`
+
+Clojure - `clojure`
+
+Closure Templates - `closure-templates`
+
+Cloud Firestore Security Rules - `cloud-firestore-security-rules`
+
+CoNLL-U - `conll-u`
+
+CodeQL - `codeql`
+
+CoffeeScript - `coffeescript`
+
+ColdFusion - `coldfusion`
+
+ColdFusion CFC - `coldfusion-cfc`
+
+Common Lisp - `common-lisp`
+
+Common Workflow Language - `common-workflow-language`
+
+Component Pascal - `component-pascal`
+
+Cool - `cool`
+
+Coq - `coq`
+
+Cpp-ObjDump - `cpp-objdump`
+
+Creole - `creole`
+
+Crystal - `crystal`
+
+Csound - `csound`
+
+Csound Document - `csound-document`
+
+Csound Score - `csound-score`
+
+Cuda - `cuda`
+
+Cue Sheet - `cue-sheet`
+
+Cycript - `cycript`
+
+Cython - `cython`
+
+D - `d`
+
+D-ObjDump - `d-objdump`
+
+DIGITAL Command Language - `digital-command-language`
+
+DM - `dm`
+
+DNS Zone - `dns-zone`
+
+DTrace - `dtrace`
+
+Dafny - `dafny`
+
+Darcs Patch - `darcs-patch`
+
+Dart - `dart`
+
+DataWeave - `dataweave`
+
+Dhall - `dhall`
+
+Diff - `diff`
+
+DirectX 3D File - `directx-3d-file`
+
+Dockerfile - `dockerfile`
+
+Dogescript - `dogescript`
+
+Dylan - `dylan`
+
+E - `e`
+
+E-mail - `e-mail`
+
+EBNF - `ebnf`
+
+ECL - `ecl`
+
+ECLiPSe - `eclipse`
+
+EJS - `ejs`
+
+EQ - `eq`
+
+Eagle - `eagle`
+
+Easybuild - `easybuild`
+
+Ecere Projects - `ecere-projects`
+
+EditorConfig - `editorconfig`
+
+Edje Data Collection - `edje-data-collection`
+
+Eiffel - `eiffel`
+
+Elixir - `elixir`
+
+Elm - `elm`
+
+Emacs Lisp - `emacs-lisp`
+
+EmberScript - `emberscript`
+
+Erlang - `erlang`
+
+F# - `f-sharp`
+
+F* - `f-asterisk`
+
+FIGlet Font - `figlet-font`
+
+FLUX - `flux`
+
+Factor - `factor`
+
+Fancy - `fancy`
+
+Fantom - `fantom`
+
+Faust - `faust`
+
+Fennel - `fennel`
+
+Filebench WML - `filebench-wml`
+
+Filterscript - `filterscript`
+
+Fluent - `fluent`
+
+Formatted - `formatted`
+
+Forth - `forth`
+
+Fortran - `fortran`
+
+Fortran Free Form - `fortran-free-form`
+
+FreeBasic - `freebasic`
+
+FreeMarker - `freemarker`
+
+Frege - `frege`
+
+Futhark - `futhark`
+
+G-code - `g-code`
+
+GAML - `gaml`
+
+GAMS - `gams`
+
+GAP - `gap`
+
+GCC Machine Description - `gcc-machine-description`
+
+GDB - `gdb`
+
+GDScript - `gdscript`
+
+GEDCOM - `gedcom`
+
+GLSL - `glsl`
+
+GN - `gn`
+
+Game Maker Language - `game-maker-language`
+
+Gemfile.lock - `gemfile.lock`
+
+Genie - `genie`
+
+Genshi - `genshi`
+
+Gentoo Ebuild - `gentoo-ebuild`
+
+Gentoo Eclass - `gentoo-eclass`
+
+Gerber Image - `gerber-image`
+
+Gettext Catalog - `gettext-catalog`
+
+Gherkin - `gherkin`
+
+Git Attributes - `git-attributes`
+
+Git Config - `git-config`
+
+Glyph - `glyph`
+
+Glyph Bitmap Distribution Format - `glyph-bitmap-distribution-format`
+
+Gnuplot - `gnuplot`
+
+Go - `go`
+
+Go Checksums - `go-checksums`
+
+Go Module - `go-module`
+
+Golo - `golo`
+
+Gosu - `gosu`
+
+Grace - `grace`
+
+Gradle - `gradle`
+
+Grammatical Framework - `grammatical-framework`
+
+Graph Modeling Language - `graph-modeling-language`
+
+GraphQL - `graphql`
+
+Graphviz (DOT) - `graphviz-(dot)`
+
+Groovy - `groovy`
+
+Groovy Server Pages - `groovy-server-pages`
+
+HAProxy - `haproxy`
+
+HCL - `hcl`
+
+HLSL - `hlsl`
+
+HTML - `html`
+
+HTML+ECR - `html+ecr`
+
+HTML+EEX - `html+eex`
+
+HTML+ERB - `html+erb`
+
+HTML+PHP - `html+php`
+
+HTML+Razor - `html+razor`
+
+HTTP - `http`
+
+HXML - `hxml`
+
+Hack - `hack`
+
+Haml - `haml`
+
+Handlebars - `handlebars`
+
+Harbour - `harbour`
+
+Haskell - `haskell`
+
+Haxe - `haxe`
+
+HiveQL - `hiveql`
+
+HolyC - `holyc`
+
+Hy - `hy`
+
+HyPhy - `hyphy`
+
+IDL - `idl`
+
+IGOR Pro - `igor-pro`
+
+INI - `ini`
+
+IRC log - `irc-log`
+
+Idris - `idris`
+
+Ignore List - `ignore-list`
+
+ImageJ Macro - `imagej-macro`
+
+Inform 7 - `inform-7`
+
+Inno Setup - `inno-setup`
+
+Io - `io`
+
+Ioke - `ioke`
+
+Isabelle - `isabelle`
+
+Isabelle ROOT - `isabelle-root`
+
+J - `j`
+
+JAR Manifest - `jar-manifest`
+
+JFlex - `jflex`
+
+JSON - `json`
+
+JSON with Comments - `json-with-comments`
+
+JSON5 - `json5`
+
+JSONLD - `jsonld`
+
+JSONiq - `jsoniq`
+
+Jasmin - `jasmin`
+
+Java - `java`
+
+Java Properties - `java-properties`
+
+Java Server Pages - `java-server-pages`
+
+JavaScript - `javascript`
+
+JavaScript+ERB - `javascript+erb`
+
+Jinja - `jinja`
+
+Jison - `jison`
+
+Jison Lex - `jison-lex`
+
+Jolie - `jolie`
+
+Jsonnet - `jsonnet`
+
+Julia - `julia`
+
+Jupyter Notebook - `jupyter-notebook`
+
+KRL - `krl`
+
+Kaitai Struct - `kaitai-struct`
+
+KakouneScript - `kakounescript`
+
+KiCad Layout - `kicad-layout`
+
+KiCad Legacy Layout - `kicad-legacy-layout`
+
+KiCad Schematic - `kicad-schematic`
+
+Kit - `kit`
+
+Kotlin - `kotlin`
+
+Kusto - `kusto`
+
+LFE - `lfe`
+
+LLVM - `llvm`
+
+LOLCODE - `lolcode`
+
+LSL - `lsl`
+
+LTspice Symbol - `ltspice-symbol`
+
+LabVIEW - `labview`
+
+Lark - `lark`
+
+Lasso - `lasso`
+
+Latte - `latte`
+
+Lean - `lean`
+
+Less - `less`
+
+Lex - `lex`
+
+LilyPond - `lilypond`
+
+Limbo - `limbo`
+
+Linker Script - `linker-script`
+
+Linux Kernel Module - `linux-kernel-module`
+
+Liquid - `liquid`
+
+Literate Agda - `literate-agda`
+
+Literate CoffeeScript - `literate-coffeescript`
+
+Literate Haskell - `literate-haskell`
+
+LiveScript - `livescript`
+
+Logos - `logos`
+
+Logtalk - `logtalk`
+
+LookML - `lookml`
+
+LoomScript - `loomscript`
+
+Lua - `lua`
+
+M - `m`
+
+M4 - `m4`
+
+M4Sugar - `m4sugar`
+
+MATLAB - `matlab`
+
+MAXScript - `maxscript`
+
+MLIR - `mlir`
+
+MQL4 - `mql4`
+
+MQL5 - `mql5`
+
+MTML - `mtml`
+
+MUF - `muf`
+
+Macaulay2 - `macaulay2`
+
+Makefile - `makefile`
+
+Mako - `mako`
+
+Markdown - `markdown`
+
+Marko - `marko`
+
+Mask - `mask`
+
+Mathematica - `mathematica`
+
+Maven POM - `maven-pom`
+
+Max - `max`
+
+Mercury - `mercury`
+
+Meson - `meson`
+
+Metal - `metal`
+
+Microsoft Developer Studio Project - `microsoft-developer-studio-project`
+
+Microsoft Visual Studio Solution - `microsoft-visual-studio-solution`
+
+MiniD - `minid`
+
+Mirah - `mirah`
+
+Modelica - `modelica`
+
+Modula-2 - `modula-2`
+
+Modula-3 - `modula-3`
+
+Module Management System - `module-management-system`
+
+Monkey - `monkey`
+
+Moocode - `moocode`
+
+MoonScript - `moonscript`
+
+Motorola 68K Assembly - `motorola-68k-assembly`
+
+Muse - `muse`
+
+Mustache - `mustache`
+
+Myghty - `myghty`
+
+NASL - `nasl`
+
+NCL - `ncl`
+
+NEON - `neon`
+
+NL - `nl`
+
+NPM Config - `npm-config`
+
+NSIS - `nsis`
+
+NWScript - `nwscript`
+
+Nearley - `nearley`
+
+Nemerle - `nemerle`
+
+NetLinx - `netlinx`
+
+NetLinx+ERB - `netlinx+erb`
+
+NetLogo - `netlogo`
+
+NewLisp - `newlisp`
+
+Nextflow - `nextflow`
+
+Nginx - `nginx`
+
+Nim - `nim`
+
+Ninja - `ninja`
+
+Nit - `nit`
+
+Nix - `nix`
+
+Nu - `nu`
+
+NumPy - `numpy`
+
+Nunjucks - `nunjucks`
+
+OCaml - `ocaml`
+
+ObjDump - `objdump`
+
+Object Data Instance Notation - `object-data-instance-notation`
+
+ObjectScript - `objectscript`
+
+Objective-C - `objective-c`
+
+Objective-C++ - `objective-c++`
+
+Objective-J - `objective-j`
+
+Odin - `odin`
+
+Omgrofl - `omgrofl`
+
+Opa - `opa`
+
+Opal - `opal`
+
+Open Policy Agent - `open-policy-agent`
+
+OpenCL - `opencl`
+
+OpenEdge ABL - `openedge-abl`
+
+OpenQASM - `openqasm`
+
+OpenRC runscript - `openrc-runscript`
+
+OpenSCAD - `openscad`
+
+OpenStep Property List - `openstep-property-list`
+
+OpenType Feature File - `opentype-feature-file`
+
+Org - `org`
+
+Ox - `ox`
+
+Oxygene - `oxygene`
+
+Oz - `oz`
+
+P4 - `p4`
+
+PEG.js - `peg.js`
+
+PHP - `php`
+
+PLSQL - `plsql`
+
+PLpgSQL - `plpgsql`
+
+POV-Ray SDL - `pov-ray-sdl`
+
+Pan - `pan`
+
+Papyrus - `papyrus`
+
+Parrot - `parrot`
+
+Parrot Assembly - `parrot-assembly`
+
+Parrot Internal Representation - `parrot-internal-representation`
+
+Pascal - `pascal`
+
+Pawn - `pawn`
+
+Pep8 - `pep8`
+
+Perl - `perl`
+
+Pic - `pic`
+
+Pickle - `pickle`
+
+PicoLisp - `picolisp`
+
+PigLatin - `piglatin`
+
+Pike - `pike`
+
+PlantUML - `plantuml`
+
+Pod - `pod`
+
+Pod 6 - `pod-6`
+
+PogoScript - `pogoscript`
+
+Pony - `pony`
+
+PostCSS - `postcss`
+
+PostScript - `postscript`
+
+PowerBuilder - `powerbuilder`
+
+PowerShell - `powershell`
+
+Prisma - `prisma`
+
+Processing - `processing`
+
+Proguard - `proguard`
+
+Prolog - `prolog`
+
+Propeller Spin - `propeller-spin`
+
+Protocol Buffer - `protocol-buffer`
+
+Public Key - `public-key`
+
+Pug - `pug`
+
+Puppet - `puppet`
+
+Pure Data - `pure-data`
+
+PureBasic - `purebasic`
+
+PureScript - `purescript`
+
+Python - `python`
+
+Python console - `python-console`
+
+Python traceback - `python-traceback`
+
+Q# - `q-sharp`
+
+QML - `qml`
+
+QMake - `qmake`
+
+Qt Script - `qt-script`
+
+Quake - `quake`
+
+R - `r`
+
+RAML - `raml`
+
+RDoc - `rdoc`
+
+REALbasic - `realbasic`
+
+REXX - `rexx`
+
+RMarkdown - `rmarkdown`
+
+RPC - `rpc`
+
+RPM Spec - `rpm-spec`
+
+RUNOFF - `runoff`
+
+Racket - `racket`
+
+Ragel - `ragel`
+
+Raku - `raku`
+
+Rascal - `rascal`
+
+Raw token data - `raw-token-data`
+
+ReScript - `rescript`
+
+Readline Config - `readline-config`
+
+Reason - `reason`
+
+Rebol - `rebol`
+
+Record Jar - `record-jar`
+
+Red - `red`
+
+Redcode - `redcode`
+
+Redirect Rules - `redirect-rules`
+
+Regular Expression - `regular-expression`
+
+Ren'Py - `ren'py`
+
+RenderScript - `renderscript`
+
+Rich Text Format - `rich-text-format`
+
+Ring - `ring`
+
+Riot - `riot`
+
+RobotFramework - `robotframework`
+
+Roff - `roff`
+
+Roff Manpage - `roff-manpage`
+
+Rouge - `rouge`
+
+Ruby - `ruby`
+
+Rust - `rust`
+
+SAS - `sas`
+
+SCSS - `scss`
+
+SELinux Policy - `selinux-policy`
+
+SMT - `smt`
+
+SPARQL - `sparql`
+
+SQF - `sqf`
+
+SQL - `sql`
+
+SQLPL - `sqlpl`
+
+SRecode Template - `srecode-template`
+
+SSH Config - `ssh-config`
+
+STON - `ston`
+
+SVG - `svg`
+
+SWIG - `swig`
+
+Sage - `sage`
+
+SaltStack - `saltstack`
+
+Sass - `sass`
+
+Scala - `scala`
+
+Scaml - `scaml`
+
+Scheme - `scheme`
+
+Scilab - `scilab`
+
+Self - `self`
+
+ShaderLab - `shaderlab`
+
+Shell - `shell`
+
+ShellSession - `shellsession`
+
+Shen - `shen`
+
+Sieve - `sieve`
+
+Singularity - `singularity`
+
+Slash - `slash`
+
+Slice - `slice`
+
+Slim - `slim`
+
+SmPL - `smpl`
+
+Smali - `smali`
+
+Smalltalk - `smalltalk`
+
+Smarty - `smarty`
+
+Solidity - `solidity`
+
+Soong - `soong`
+
+SourcePawn - `sourcepawn`
+
+Spline Font Database - `spline-font-database`
+
+Squirrel - `squirrel`
+
+Stan - `stan`
+
+Standard ML - `standard-ml`
+
+Starlark - `starlark`
+
+Stata - `stata`
+
+StringTemplate - `stringtemplate`
+
+Stylus - `stylus`
+
+SubRip Text - `subrip-text`
+
+SugarSS - `sugarss`
+
+SuperCollider - `supercollider`
+
+Svelte - `svelte`
+
+Swift - `swift`
+
+SystemVerilog - `systemverilog`
+
+TI Program - `ti-program`
+
+TLA - `tla`
+
+TOML - `toml`
+
+TSQL - `tsql`
+
+TSV - `tsv`
+
+TSX - `tsx`
+
+TXL - `txl`
+
+Tcl - `tcl`
+
+Tcsh - `tcsh`
+
+TeX - `tex`
+
+Tea - `tea`
+
+Terra - `terra`
+
+Texinfo - `texinfo`
+
+Text - `text`
+
+TextMate Properties - `textmate-properties`
+
+Textile - `textile`
+
+Thrift - `thrift`
+
+Turing - `turing`
+
+Turtle - `turtle`
+
+Twig - `twig`
+
+Type Language - `type-language`
+
+TypeScript - `typescript`
+
+Unified Parallel C - `unified-parallel-c`
+
+Unity3D Asset - `unity3d-asset`
+
+Unix Assembly - `unix-assembly`
+
+Uno - `uno`
+
+UnrealScript - `unrealscript`
+
+UrWeb - `urweb`
+
+V - `v`
+
+VBA - `vba`
+
+VBScript - `vbscript`
+
+VCL - `vcl`
+
+VHDL - `vhdl`
+
+Vala - `vala`
+
+Valve Data Format - `valve-data-format`
+
+Verilog - `verilog`
+
+Vim Help File - `vim-help-file`
+
+Vim Script - `vim-script`
+
+Vim Snippet - `vim-snippet`
+
+Visual Basic .NET - `visual-basic-.net`
+
+Volt - `volt`
+
+Vue - `vue`
+
+Wavefront Material - `wavefront-material`
+
+Wavefront Object - `wavefront-object`
+
+Web Ontology Language - `web-ontology-language`
+
+WebAssembly - `webassembly`
+
+WebIDL - `webidl`
+
+WebVTT - `webvtt`
+
+Wget Config - `wget-config`
+
+Wikitext - `wikitext`
+
+Windows Registry Entries - `windows-registry-entries`
+
+Wollok - `wollok`
+
+World of Warcraft Addon Data - `world-of-warcraft-addon-data`
+
+X BitMap - `x-bitmap`
+
+X Font Directory Index - `x-font-directory-index`
+
+X PixMap - `x-pixmap`
+
+X10 - `x10`
+
+XC - `xc`
+
+XCompose - `xcompose`
+
+XML - `xml`
+
+XML Property List - `xml-property-list`
+
+XPages - `xpages`
+
+XProc - `xproc`
+
+XQuery - `xquery`
+
+XS - `xs`
+
+XSLT - `xslt`
+
+Xojo - `xojo`
+
+Xonsh - `xonsh`
+
+Xtend - `xtend`
+
+YAML - `yaml`
+
+YANG - `yang`
+
+YARA - `yara`
+
+YASnippet - `yasnippet`
+
+Yacc - `yacc`
+
+ZAP - `zap`
+
+ZIL - `zil`
+
+Zeek - `zeek`
+
+ZenScript - `zenscript`
+
+Zephir - `zephir`
+
+Zig - `zig`
+
+Zimpl - `zimpl`
+
+cURL Config - `curl-config`
+
+desktop - `desktop`
+
+dirs - `dirs`
+
+eC - `ec`
+
+edn - `edn`
+
+fish - `fish`
+
+jq - `jq`
+
+mIRC Script - `mirc-script`
+
+mcfunction - `mcfunction`
+
+mupad - `mupad`
+
+nanorc - `nanorc`
+
+nesC - `nesc`
+
+ooc - `ooc`
+
+q - `q`
+
+reStructuredText - `restructuredtext`
+
+robots.txt - `robots.txt`
+
+sed - `sed`
+
+wdl - `wdl`
+
+wisp - `wisp`
+
+xBase - `xbase`
+
+
+<div align="center">
 
 Made with ❤ by me.
 
