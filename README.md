@@ -1,7 +1,6 @@
 <h1 align="center">
-GitHub Colors Tags
 
-![](./lang/markdown/rounded.svg)
+GitHub Colors Tags&nbsp;&nbsp;&nbsp;&nbsp;![](./lang/markdown/rounded.svg)
 
 </h1>
 
@@ -103,8 +102,7 @@ HTML
 
 <div align="center">
 
-## [Reference sheet](reference/README.md)
-## [Samples sheet](samples/README.md)
+### [Reference sheet](reference/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[Samples sheet](samples/README.md)
 
 Made with ❤ by me.
 
