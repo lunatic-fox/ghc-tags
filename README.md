@@ -18,7 +18,12 @@ GitHub Colors Tags&nbsp;&nbsp;&nbsp;&nbsp;![](./lang/markdown/rounded.svg)
 
 </h3>
 
+
 ## Usage
+> ℹ All content in this repository is under MIT License, that means you can use this project, but need to include this **[LICENSE](LICENSE)** in your own.
+
+> ℹ Give credits is one of the best ways to stimulate a content producer to produce even more! 🤩
+
 &nbsp;&nbsp;&nbsp;&nbsp;You can **[FORK](https://github.com/joseliojunior/ghc-tags.git)** this project and use your own way or get the tags through URL reference below:
 
 ### Rounded
@@ -94,11 +99,6 @@ HTML
 ~~~html
 <img src="https://joseliojunior.github.io/ghc-tags/lang/[LANGUAGE]/rounded-small.svg">
 ~~~
-
-## License
-&nbsp;&nbsp;&nbsp;&nbsp;All content in this repository is under MIT License, that means you can use this project, but need to include this **[LICENSE](LICENSE)** in your own.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Give credits is one of the best ways to stimulate a content producer to produce even more! 🤩
 
 <div align="center">
 
