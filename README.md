@@ -26,38 +26,54 @@ GitHub Colors Tags&nbsp;&nbsp;&nbsp;&nbsp;![](./lang/markdown/rounded.svg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;You can **[FORK](https://github.com/joseliojunior/ghc-tags.git)** this project and use your own way or get the tags through URL reference below:
 
-### Rounded
+<br>
+<h3 align="center">Rounded</h3>
 
-Markdown
+![](./lang/markdown/rounded-small.svg)
 ~~~markdown
 ![](https://joseliojunior.github.io/ghc-tags/lang/[LANGUAGE]/rounded.svg)
 ~~~
-HTML
+![](./lang/html/rounded-small.svg)
 ~~~html
 <img src="https://joseliojunior.github.io/ghc-tags/lang/[LANGUAGE]/rounded.svg">
 ~~~
 
-### Squared
-Markdown
+<br>
+<h3 align="center">Squared</h3>
+
+![](./lang/markdown/squared-small.svg)
 ~~~markdown
 ![](https://joseliojunior.github.io/ghc-tags/lang/[LANGUAGE]/squared.svg)
 ~~~
-HTML
+![](./lang/html/squared-small.svg)
 ~~~html
 <img src="https://joseliojunior.github.io/ghc-tags/lang/[LANGUAGE]/squared.svg">
 ~~~
+
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;`<LANGUAGE>`
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The language chosen must be in lowercase and words separated with `-`.
 
 ### Example
+![](./lang/html/squared-small.svg)
 ~~~html
-<img src="https://joseliojunior.github.io/ghc-tags/lang/objective-c++/squared.svg">
+<img src="https://joseliojunior.github.io/ghc-tags/lang/swift/squared.svg">
+<img src="https://joseliojunior.github.io/ghc-tags/lang/objective-c++/rounded.svg">
 ~~~
+<div align="center">
 
-### Exceptions
+![](./lang/swift/squared.svg) ![](./lang/objective-c++/rounded.svg)
+  
+</div>
+
+<br>
+<h3 align="center">Exceptions</h3>
+
 &nbsp;&nbsp;&nbsp;&nbsp;`F*` and all languages with `#` are exceptions where `*` is replaced with `-asterisk` and `#` is replaced with `-sharp` respectively.
+
+![](./lang/html/rounded-small.svg)
 ~~~html
 <img src="https://joseliojunior.github.io/ghc-tags/lang/f-asterisk/squared.svg">
 <img src="https://joseliojunior.github.io/ghc-tags/lang/c-sharp/squared.svg">
@@ -68,8 +84,8 @@ HTML
 
 </div>
 
-
-### Non-colored languages
+<br>
+<h3 align="center">Non-colored languages</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;There are some languages that don't have any color assigned to them, in this case they'll have that appearance.
 
@@ -79,7 +95,8 @@ HTML
 
 </div>
 
-### Small versions
+<br>
+<h3 align="center">Small versions</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;The standard tag height is 32px, but there is a handy small version of each one with 24px height. You just need to add `-small` to get them.
 
@@ -91,11 +108,11 @@ HTML
 
 </div>
 
-Markdown
+![](./lang/markdown/rounded-small.svg)
 ~~~markdown
 ![](https://joseliojunior.github.io/ghc-tags/lang/[LANGUAGE]/rounded-small.svg)
 ~~~
-HTML
+![](./lang/html/rounded-small.svg)
 ~~~html
 <img src="https://joseliojunior.github.io/ghc-tags/lang/[LANGUAGE]/rounded-small.svg">
 ~~~
