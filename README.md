@@ -26,21 +26,21 @@ GitHub Colors Tags
 
 Markdown
 ~~~markdown
-![](https://joseliojunior.github.io/ghc-tags/lang/<LANGUAGE>/rounded.svg)
+![](https://joseliojunior.github.io/ghc-tags/lang/[LANGUAGE]/rounded.svg)
 ~~~
 HTML
 ~~~html
-<img src="https://joseliojunior.github.io/ghc-tags/lang/<LANGUAGE>/rounded.svg">
+<img src="https://joseliojunior.github.io/ghc-tags/lang/[LANGUAGE]/rounded.svg">
 ~~~
 
 ### Squared
 Markdown
 ~~~markdown
-![](https://joseliojunior.github.io/ghc-tags/lang/<LANGUAGE>/squared.svg)
+![](https://joseliojunior.github.io/ghc-tags/lang/[LANGUAGE]/squared.svg)
 ~~~
 HTML
 ~~~html
-<img src="https://joseliojunior.github.io/ghc-tags/lang/<LANGUAGE>/squared.svg">
+<img src="https://joseliojunior.github.io/ghc-tags/lang/[LANGUAGE]/squared.svg">
 ~~~
 
 &nbsp;&nbsp;&nbsp;&nbsp;`<LANGUAGE>`
@@ -89,11 +89,11 @@ HTML
 
 Markdown
 ~~~markdown
-![](https://joseliojunior.github.io/ghc-tags/lang/<LANGUAGE>/rounded-small.svg)
+![](https://joseliojunior.github.io/ghc-tags/lang/[LANGUAGE]/rounded-small.svg)
 ~~~
 HTML
 ~~~html
-<img src="https://joseliojunior.github.io/ghc-tags/lang/<LANGUAGE>/rounded-small.svg">
+<img src="https://joseliojunior.github.io/ghc-tags/lang/[LANGUAGE]/rounded-small.svg">
 ~~~
 
 ## License
