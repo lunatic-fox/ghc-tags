@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg height="26" width="50.1" version="1.1" xmlns="http://www.w3.org/2000/svg"><!--Created by Josélio de S. C. Júnior - 2021 - https://github.com/joseliojunior -->
-    <rect
-        height="24"
-        width="48.1"
-        rx="1"
-        ry="1"
-        x="1" y="1"
-        fill="#9EEDFF"
-        stroke="#00abd1"
-        stroke-width="1" />
-    <g transform="translate(0, 8)">
-        <path fill="#00abd1" d="M27.01 0.10L27.01 6.69Q27.01 7.41 26.82 8.05Q26.64 8.69 26.22 9.17Q25.79 9.65 25.12 9.93Q24.45 10.21 23.49 10.21L23.49 10.21Q22.48 10.21 21.81 9.95Q21.14 9.70 20.67 9.33L20.67 9.33L21.42 7.76Q21.82 8.02 22.31 8.26Q22.80 8.50 23.31 8.50L23.31 8.50Q24.08 8.50 24.55 8.09Q25.02 7.68 25.02 6.58L25.02 6.58L25.02 1.73L21.71 1.73L21.71 0.10L27.01 0.10Z"/>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg height="26" width="50.1" version="1.1" xmlns="http://www.w3.org/2000/svg"><!--Created by Josélio de S. C. Júnior - 2021 - https://github.com/joseliojunior --><rect height="24" width="48.1" rx="1" ry="1" x="1" y="1" fill="#9EEDFF" stroke="#00abd1" stroke-width="1" /><g transform="translate(0, 8)"><path fill="#00abd1" d="M27.01 0.10L27.01 6.69Q27.01 7.41 26.82 8.05Q26.64 8.69 26.22 9.17Q25.79 9.65 25.12 9.93Q24.45 10.21 23.49 10.21L23.49 10.21Q22.48 10.21 21.81 9.95Q21.14 9.70 20.67 9.33L20.67 9.33L21.42 7.76Q21.82 8.02 22.31 8.26Q22.80 8.50 23.31 8.50L23.31 8.50Q24.08 8.50 24.55 8.09Q25.02 7.68 25.02 6.58L25.02 6.58L25.02 1.73L21.71 1.73L21.71 0.10L27.01 0.10Z"/></g></svg>

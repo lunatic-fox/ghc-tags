@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg height="26" width="50.1" version="1.1" xmlns="http://www.w3.org/2000/svg"><!--Created by Josélio de S. C. Júnior - 2021 - https://github.com/joseliojunior -->
-    <rect
-        height="24"
-        width="48.1"
-        rx="12"
-        ry="12"
-        x="1" y="1"
-        fill="#ccce35"
-        stroke="#555615"
-        stroke-width="1" />
-    <g transform="translate(0, 8)">
-        <path fill="#555615" d="M27.36 10L21.01 10L21.01 0.10L27.01 0.10L27.01 1.73L22.98 1.73L22.98 3.95L26.48 3.95L26.48 5.58L22.98 5.58L22.98 8.37L27.36 8.37L27.36 10Z"/>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg height="26" width="50.1" version="1.1" xmlns="http://www.w3.org/2000/svg"><!--Created by Josélio de S. C. Júnior - 2021 - https://github.com/joseliojunior --><rect height="24" width="48.1" rx="12" ry="12" x="1" y="1" fill="#ccce35" stroke="#555615" stroke-width="1" /><g transform="translate(0, 8)"><path fill="#555615" d="M27.36 10L21.01 10L21.01 0.10L27.01 0.10L27.01 1.73L22.98 1.73L22.98 3.95L26.48 3.95L26.48 5.58L22.98 5.58L22.98 8.37L27.36 8.37L27.36 10Z"/></g></svg>

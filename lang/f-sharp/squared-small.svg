@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg height="26" width="58.2" version="1.1" xmlns="http://www.w3.org/2000/svg"><!--Created by Josélio de S. C. Júnior - 2021 - https://github.com/joseliojunior -->
-    <rect
-        height="24"
-        width="56.2"
-        rx="1"
-        ry="1"
-        x="1" y="1"
-        fill="#b845fc"
-        stroke="#6a03a6"
-        stroke-width="1" />
-    <g transform="translate(0, 8)">
-        <path fill="#6a03a6" d="M22.98 10L21.01 10L21.01 0.10L27.07 0.10L27.07 1.73L22.98 1.73L22.98 4.13L26.56 4.13L26.56 5.76L22.98 5.76L22.98 10ZM28.29 2.53L30.21 2.53L30.67 0.10L32.30 0.10L31.82 2.53L33.10 2.53L33.57 0.10L35.20 0.10L34.74 2.53L35.73 2.53L35.73 4.16L34.42 4.16L34.08 5.92L35.73 5.92L35.73 7.55L33.78 7.55L33.31 10L31.68 10L32.14 7.55L30.86 7.55L30.42 10L28.78 10L29.25 7.55L28.29 7.55L28.29 5.92L29.55 5.92L29.89 4.16L28.29 4.16L28.29 2.53ZM31.52 4.16L31.18 5.92L32.46 5.92L32.78 4.16L31.52 4.16Z"/>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg height="26" width="58.2" version="1.1" xmlns="http://www.w3.org/2000/svg"><!--Created by Josélio de S. C. Júnior - 2021 - https://github.com/joseliojunior --><rect height="24" width="56.2" rx="1" ry="1" x="1" y="1" fill="#b845fc" stroke="#6a03a6" stroke-width="1" /><g transform="translate(0, 8)"><path fill="#6a03a6" d="M22.98 10L21.01 10L21.01 0.10L27.07 0.10L27.07 1.73L22.98 1.73L22.98 4.13L26.56 4.13L26.56 5.76L22.98 5.76L22.98 10ZM28.29 2.53L30.21 2.53L30.67 0.10L32.30 0.10L31.82 2.53L33.10 2.53L33.57 0.10L35.20 0.10L34.74 2.53L35.73 2.53L35.73 4.16L34.42 4.16L34.08 5.92L35.73 5.92L35.73 7.55L33.78 7.55L33.31 10L31.68 10L32.14 7.55L30.86 7.55L30.42 10L28.78 10L29.25 7.55L28.29 7.55L28.29 5.92L29.55 5.92L29.89 4.16L28.29 4.16L28.29 2.53ZM31.52 4.16L31.18 5.92L32.46 5.92L32.78 4.16L31.52 4.16Z"/></g></svg>
