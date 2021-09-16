@@ -1,8 +1,7 @@
-# Samples sheet
-<div align="center">
+# Reference sheet
 
-### **There is a total of 607 languages.**
-### **Colored: 477 languages**
+### **There is a total of 608 languages.**
+### **Colored: 478 languages**
 ### **Non-colored: 130 languages**
 <br>
 
@@ -254,6 +253,7 @@
 ![](../lang/java-server-pages/rounded.svg)
 ![](../lang/javascript/rounded.svg)
 ![](../lang/javascript+erb/rounded.svg)
+![](../lang/jest-snapshot/rounded.svg)
 ![](../lang/jinja/rounded.svg)
 ![](../lang/jison/rounded.svg)
 ![](../lang/jison-lex/rounded.svg)
@@ -614,6 +614,7 @@
 ![](../lang/wisp/rounded.svg)
 ![](../lang/xbase/rounded.svg)
 
+<div align="center">
 
 Made with ❤ by me.
 

@@ -1,7 +1,7 @@
 # Reference sheet
 
-### **There is a total of 607 languages.**
-### **Colored: 477 languages**
+### **There is a total of 608 languages.**
+### **Colored: 478 languages**
 ### **Non-colored: 130 languages**
 <br>
 
@@ -500,6 +500,8 @@ Java Server Pages - `java-server-pages`
 JavaScript - `javascript`
 
 JavaScript+ERB - `javascript+erb`
+
+Jest Snapshot - `jest-snapshot`
 
 Jinja - `jinja`
 
@@ -1218,7 +1220,6 @@ wdl - `wdl`
 wisp - `wisp`
 
 xBase - `xbase`
-
 
 <div align="center">
 
