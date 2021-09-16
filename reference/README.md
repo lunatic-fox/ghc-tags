@@ -1,8 +1,12 @@
 # Reference sheet
 
+<div align="center">
+
 ### **There is a total of 608 languages.**
 ### **Colored: 478 languages**
 ### **Non-colored: 130 languages**
+
+</div>
 <br>
 
 1C Enterprise - `1c-enterprise`

@@ -1,4 +1,6 @@
-# Reference sheet
+# Samples sheet
+
+<div align="center">
 
 ### **There is a total of 608 languages.**
 ### **Colored: 478 languages**
@@ -614,7 +616,7 @@
 ![](../lang/wisp/rounded.svg)
 ![](../lang/xbase/rounded.svg)
 
-<div align="center">
+
 
 Made with ❤ by me.
 
