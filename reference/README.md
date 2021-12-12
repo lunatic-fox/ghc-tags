@@ -2,8 +2,8 @@
 
 <div align="center">
 
-### **There is a total of 608 languages.**
-### **Colored: 478 languages**
+### **There is a total of 612 languages.**
+### **Colored: 482 languages**
 ### **Non-colored: 130 languages**
 
 </div>
@@ -274,6 +274,8 @@ EJS - `ejs`
 EQ - `eq`
 
 Eagle - `eagle`
+
+Earthly - `earthly`
 
 Easybuild - `easybuild`
 
@@ -657,6 +659,8 @@ Moocode - `moocode`
 
 MoonScript - `moonscript`
 
+Motoko - `motoko`
+
 Motorola 68K Assembly - `motorola-68k-assembly`
 
 Muse - `muse`
@@ -821,6 +825,8 @@ Proguard - `proguard`
 
 Prolog - `prolog`
 
+Promela - `promela`
+
 Propeller Spin - `propeller-spin`
 
 Protocol Buffer - `protocol-buffer`
@@ -966,6 +972,8 @@ Self - `self`
 ShaderLab - `shaderlab`
 
 Shell - `shell`
+
+ShellCheck Config - `shellcheck-config`
 
 ShellSession - `shellsession`
 

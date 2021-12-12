@@ -2,8 +2,8 @@
 
 <div align="center">
 
-### **There is a total of 608 languages.**
-### **Colored: 478 languages**
+### **There is a total of 612 languages.**
+### **Colored: 482 languages**
 ### **Non-colored: 130 languages**
 <br>
 
@@ -140,6 +140,7 @@
 ![](../lang/ejs/rounded.svg)
 ![](../lang/eq/rounded.svg)
 ![](../lang/eagle/rounded.svg)
+![](../lang/earthly/rounded.svg)
 ![](../lang/easybuild/rounded.svg)
 ![](../lang/ecere-projects/rounded.svg)
 ![](../lang/editorconfig/rounded.svg)
@@ -331,6 +332,7 @@
 ![](../lang/monkey/rounded.svg)
 ![](../lang/moocode/rounded.svg)
 ![](../lang/moonscript/rounded.svg)
+![](../lang/motoko/rounded.svg)
 ![](../lang/motorola-68k-assembly/rounded.svg)
 ![](../lang/muse/rounded.svg)
 ![](../lang/mustache/rounded.svg)
@@ -413,6 +415,7 @@
 ![](../lang/processing/rounded.svg)
 ![](../lang/proguard/rounded.svg)
 ![](../lang/prolog/rounded.svg)
+![](../lang/promela/rounded.svg)
 ![](../lang/propeller-spin/rounded.svg)
 ![](../lang/protocol-buffer/rounded.svg)
 ![](../lang/public-key/rounded.svg)
@@ -486,6 +489,7 @@
 ![](../lang/self/rounded.svg)
 ![](../lang/shaderlab/rounded.svg)
 ![](../lang/shell/rounded.svg)
+![](../lang/shellcheck-config/rounded.svg)
 ![](../lang/shellsession/rounded.svg)
 ![](../lang/shen/rounded.svg)
 ![](../lang/sieve/rounded.svg)
